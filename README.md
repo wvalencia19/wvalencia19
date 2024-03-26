@@ -1,16 +1,23 @@
-### Hi there 👋
+# Wilson Valencia
 
-<!--
-**wvalencia19/wvalencia19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software engineer with expertise in Golang and Ruby. I specialize in developing microservices, building APIs, and designing highly scalable systems. Proficient in Agile methodologies, I'm dedicated to continuous learning and staying updated with evolving technologies.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages:
+  - Golang
+  - Ruby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Technologies:
+  - Databases: MySQL, PostgreSQL, MongoDB, CouchDB, Redis
+  - Cloud & DevOps: AWS, Docker, Kubernetes, Git, GitLab CI
+  - Messaging Systems: Pub/Sub, Kafka
+  - Frameworks & Tools: Ruby on Rails, gRPC, Prometheus, Datadog, Grafana
+  - Geospatial: OSRM, PostGIS
+
+- Languages:
+  - English: Professional proficiency
+  - Spanish: Native proficiency
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/wilval19/
